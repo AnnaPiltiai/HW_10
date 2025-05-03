@@ -1,0 +1,113 @@
+    1  cd Git
+    2  git clone http://github.com/AnnaPiltiai/HW_10..git
+    3  git clone http://github.com/AnnaPiltiai/HW_10..git
+    4  git clone https://github.com/AnnaPiltiai/HW_10..git
+    5  git clone [200~https://github.com/AnnaPiltiai/HW_10.git~
+    6  git clone https://github.com/AnnaPiltiai/HW_10.git
+    7  git status
+    8  cd Git
+    9  cd HW_10_
+   10  git clone https://github.com/AnnaPiltiai/HW_10_.git
+   11  touch text_ignore.txt
+   12  nano .gitignore
+   13  cd HW_10_
+   14  cd git
+   15  cd HW_10_
+   16  touch text_ignore.txt
+   17  nano .gitignore
+   18  git status
+   19  git add text_ignore.txt
+   20  git commit - m "1 file created"
+   21  git add text_ignore.txt
+   22  git status
+   23  git add text_ignore.txt
+   24  clear
+   25  nano .gitignore
+   26  cd HW_10_
+   27  cd Git
+   28  cd HW_10_
+   29  nano .gitignore
+   30  git status
+   31  git add text_ignore.txt
+   32  git add .ignore
+   33  git status
+   34  git add text_ignore.txt
+   35  git add .ignore
+   36  git commit -m .ignore
+   37  git log
+   38  touch main_test.txt
+   39  git add main_test.txt
+   40  git commit-m main_test.txt
+   41  git commit -m main_test.txt
+   42  git config -- global user.name "AnnaPiltiai"
+   43  git config --global user.name "AnnaPiltiai"
+   44  git config --global user.email anettesilver41@gmail.com
+   45  git clone https://github.com/AnnaPiltiai/HW__10.git
+   46  cd git
+   47  git clone https://github.com/AnnaPiltiai/HW__10.git
+   48  touch [200~text_ignore.txt
+   49  touch text_ignore.txt
+   50  cd HW__10
+   51  touch text_ignore.txt
+   52  nano
+   53  nano .gitignore
+   54  git status
+   55  git add text_ignore.txt
+   56  git add .ignore
+   57  git commit -m "1 First new file"
+   58  git add text_ignore
+   59  touch main_test.txt
+   60  git add main_test.txt
+   61  git commit -m "Second new file"
+   62  git checkout -b develop
+   63  git checkout main
+   64  git merge developer
+   65  git checkout
+   66  git checkout developer
+   67  git checkout developer
+   68  git merge develop
+   69  git log
+   70  git commit-m text_ignore.txt
+   71  git commit -m text_ignore.txt
+   72  git commit -m .ignore.txt
+   73  git log
+   74  history > command_list.csv
+   75  git push
+   76   cd git
+   77  git clone https://github.com/AnnaPiltiai/HW___10.git
+   78  touch text_ignore.txt
+   79  nano .gitignore
+   80  git status
+   81  git add .gitignore
+   82  git commit -m "Change"
+   83  git add text_ignore.txt
+   84  git commit -m "1 file"
+   85  touch main_test.txt
+   86  git add main_test.txt
+   87  cd HW___10
+   88  touch text_ignore.txt
+   89  nano .gitignore
+   90  git status
+   91  git add text_ignore.txt
+   92  git add .gitignore
+   93  git commit -m .ignore
+   94  git commit -m text_ignore.txt
+   95  touch main_test.txt
+   96  git add main_test.txt
+   97  git commit-m main_test.txt
+   98  git commit -m main_test.txt
+   99  git checkout -b develop
+  100  touch develop_test.txt
+  101  git add develop_test.txt
+  102  git commit -m develop_test.txt
+  103  git checkout develop
+  104  nano develop_test.txt
+  105  git status
+  106  git commit -m develop_test.txt
+  107  git add develop_test.txt
+  108  git commit -m develop_test.txt
+  109  git checkout main
+  110  git branch
+  111  git merge develop
+  112  git log
+  113  history > command_list.csv
